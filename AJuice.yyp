@@ -135,6 +135,22 @@
             }
         },
         {
+            "Key": "879357da-e64e-4c94-9dae-eb70a9618711",
+            "Value": {
+                "id": "f0d4c2ca-dc61-4537-af7e-d31e81d4823d",
+                "resourcePath": "rooms\\r_avacado_burial\\r_avacado_burial.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8d99bc6a-234d-441c-8a65-9836ea2d638f",
+            "Value": {
+                "id": "17913771-5834-4052-accf-5d92ea172312",
+                "resourcePath": "rooms\\r_breaker_room\\r_breaker_room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9b85f7b5-179c-4e79-baf0-9e48c65092e4",
             "Value": {
                 "id": "9ebbd2af-046b-4549-be60-47e55bb5ff40",
