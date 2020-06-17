@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "97968387-46c4-4e6d-ac76-a1c526055e11",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "b6f52d41-3998-4187-948c-b1ff69a5e756",
             "Value": {
                 "id": "b3008191-7580-4362-bff7-967e4f7df458",
@@ -172,6 +180,14 @@
                 "id": "8ae9c016-5580-41a1-926b-78f8e471e032",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "39316119-47eb-4f39-bb35-c90e264891ed",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         }
     ],
