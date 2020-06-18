@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1cb532fa-66fd-40c5-8c9d-245478b9eb92",
+            "Value": {
+                "id": "3eee4bfb-b4d2-473a-bb6d-49a22b70337a",
+                "resourcePath": "objects\\avocado\\avocado.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f1dcf18-9005-4a69-9b91-93297ae6cf8e",
             "Value": {
                 "id": "8c7e5ee2-212b-4177-af1f-8c18d009a62b",
@@ -98,7 +106,7 @@
             "Key": "39330e37-e936-4956-b3d6-e675a47dc972",
             "Value": {
                 "id": "5606980c-4db8-4a5e-9ddf-84373f6f003d",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourcePath": "sprites\\bigredbutton\\bigredbutton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -260,6 +268,14 @@
                 "id": "cee09b02-ff21-4467-9548-c4d562d97ae1",
                 "resourcePath": "objects\\object0\\object0.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c64484a8-a276-40e3-b867-0655bddf980c",
+            "Value": {
+                "id": "59e03174-ab5b-4bfd-93bc-9e0689911f8a",
+                "resourcePath": "sprites\\avocadohand\\avocadohand.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
