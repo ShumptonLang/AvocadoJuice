@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0cc2d230-9ae0-40ca-a619-72e0a5366352",
+            "Value": {
+                "id": "802bcd96-ebf7-4405-a44e-69d662425787",
+                "resourcePath": "sprites\\fridge\\fridge.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0cde7108-455b-4a96-aae1-baffa2d951f7",
             "Value": {
                 "id": "891adb92-d1ac-412b-95a8-90a089e82f2b",
@@ -1284,6 +1292,14 @@
                 "id": "b3008191-7580-4362-bff7-967e4f7df458",
                 "resourcePath": "views\\b6f52d41-3998-4187-948c-b1ff69a5e756.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b7817717-af3d-4e75-9655-7d4390610b96",
+            "Value": {
+                "id": "95a92b66-1d10-46f7-8a16-5e3836f15d9a",
+                "resourcePath": "sprites\\cuttingboard\\cuttingboard.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

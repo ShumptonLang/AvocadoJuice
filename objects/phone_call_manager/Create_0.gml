@@ -1,9 +1,9 @@
 //[,[],[],[]]
 
-global.password = "8675309"
+
 hallowed_script = ["that's the earth where bee stung god"]
 seeyah_script_end = ["night night"]
-milk_script = ["oh.. its " + string(global.password),["thanks king <3 ;;))",seeyah_script_end]]
+milk_script = ["oh.. its " + string(global.code),["thanks king <3 ;;))",seeyah_script_end]]
 hey_script = ["hey cutie <3",["hey just curious but whats\nthe milk lock pass?", milk_script]]
 libo_script = ["oh yeah definitely bro whats up?",["I need you to tell me the code\nthat we came up with together\nthree days ago.",milk_script]]
 silent_script_end = ["..."]

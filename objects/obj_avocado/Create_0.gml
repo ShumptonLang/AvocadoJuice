@@ -4,5 +4,6 @@ won = false
 pscore = -1
 lerpval = 0.5
 lost = false
+lostlock = false
 timer = 0
 target = [0,0]

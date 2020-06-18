@@ -19,7 +19,9 @@ else if not won and not lost
 	y = lerp(y,clamp(target[1],0,124),lerpval)
 }
 
-if lost {
+if lost and not lostlock {
+	global.timer = 3
+	global.next_up = r_avacado_burial
 	cursor_sprite = -1
 	sprite_index = avocadobad	
 }
