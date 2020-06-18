@@ -351,10 +351,18 @@
             }
         },
         {
+            "Key": "dd5e2e42-9895-457d-bc33-975bb1847396",
+            "Value": {
+                "id": "872216dc-ea98-42b2-9d11-cf66179ae3d8",
+                "resourcePath": "sprites\\dynamojim\\dynamojim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e7e3f0d3-8a99-4478-80cb-c46c96d35bc0",
             "Value": {
                 "id": "8cd42f6e-d4bc-41dc-8e2b-200794140b12",
-                "resourcePath": "sprites\\avocadohand1\\avocadohand1.yy",
+                "resourcePath": "sprites\\avocadobad\\avocadobad.yy",
                 "resourceType": "GMSprite"
             }
         },

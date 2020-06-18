@@ -2,7 +2,7 @@
     "id": "e7e3f0d3-8a99-4478-80cb-c46c96d35bc0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "avocadohand1",
+    "name": "avocadobad",
     "For3D": false,
     "HTile": false,
     "VTile": false,

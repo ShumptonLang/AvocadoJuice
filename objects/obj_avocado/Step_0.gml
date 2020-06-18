@@ -19,5 +19,9 @@ else if not won and not lost
 	y = lerp(y,clamp(target[1],0,124),lerpval)
 }
 
+if lost {
+	cursor_sprite = -1
+	sprite_index = avocadobad	
+}
 sign_obj.has_lost = lost
 win_objec.has_lost = lost
