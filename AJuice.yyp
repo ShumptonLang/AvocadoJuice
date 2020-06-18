@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "123ce4ff-07d3-44f4-b2c7-715ec6a1db8b",
+            "Value": {
+                "id": "1fad4071-3109-4748-a089-b1e11b00e2d3",
+                "resourcePath": "sprites\\kinfesprite\\kinfesprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18dd1a08-4d7f-450c-afc1-7b60278de78a",
             "Value": {
                 "id": "2ab2a75e-835c-475c-87c4-cffbe3a15eb3",
@@ -58,7 +66,7 @@
             "Key": "1cb532fa-66fd-40c5-8c9d-245478b9eb92",
             "Value": {
                 "id": "3eee4bfb-b4d2-473a-bb6d-49a22b70337a",
-                "resourcePath": "objects\\avocado\\avocado.yy",
+                "resourcePath": "objects\\obj_avocado\\obj_avocado.yy",
                 "resourceType": "GMObject"
             }
         },

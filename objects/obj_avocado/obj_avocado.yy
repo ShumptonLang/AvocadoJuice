@@ -2,7 +2,7 @@
     "id": "1cb532fa-66fd-40c5-8c9d-245478b9eb92",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "avocado",
+    "name": "obj_avocado",
     "eventList": [
         {
             "id": "191d89c3-92fe-4875-8d2d-4b0691b5a483",
@@ -22,6 +22,26 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "1cb532fa-66fd-40c5-8c9d-245478b9eb92"
+        },
+        {
+            "id": "2da6f9ac-7806-478b-b1ea-d57b6b38ece1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "1cb532fa-66fd-40c5-8c9d-245478b9eb92"
+        },
+        {
+            "id": "062dcdac-9c53-4e09-aed1-55bbb6bd5075",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 50,
+            "eventtype": 6,
             "m_owner": "1cb532fa-66fd-40c5-8c9d-245478b9eb92"
         }
     ],

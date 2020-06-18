@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "pit_removal_manager",
     "eventList": [
-        
+        {
+            "id": "da5c561b-5819-430d-97e9-0c775bd868b1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "413eb7ad-5d56-4619-bb4e-dd51a8f7414c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
