@@ -11,4 +11,5 @@ else if (i == 1)
 {
 	breaker_on = true;
 	sprite_index = spr_breaker_on;
+	obj_FIX.breaker_counter++;
 }
