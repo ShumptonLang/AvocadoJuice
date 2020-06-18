@@ -1,0 +1,1 @@
+draw_text_transformed(50,50,current_script[0],3,3,0)

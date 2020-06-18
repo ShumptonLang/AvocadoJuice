@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "29b30fcc-8e76-409b-84aa-ad56f03a667e",
+            "Value": {
+                "id": "44df8a41-06a7-4ebe-8eae-d16bd8a867f1",
+                "resourcePath": "scripts\\input\\input.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2aa34f1e-c892-4060-8ae5-eb3ffaf4ca75",
             "Value": {
                 "id": "05a510e8-485c-40ae-a500-9b63d140cd92",
@@ -84,6 +92,30 @@
                 "id": "7fc2f189-adfb-42b5-b25d-2d9a4c318b0a",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "413eb7ad-5d56-4619-bb4e-dd51a8f7414c",
+            "Value": {
+                "id": "fdc12261-7ae7-4701-a005-27065b3f27b6",
+                "resourcePath": "objects\\pit_removal_manager\\pit_removal_manager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4172bf99-61d1-4a41-a19d-d92e099ac077",
+            "Value": {
+                "id": "d69a1315-7a9f-4903-96ca-7026f65d7d03",
+                "resourcePath": "views\\4172bf99-61d1-4a41-a19d-d92e099ac077.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "433e4f7c-2180-43cb-9ea9-d350dd53e4f4",
+            "Value": {
+                "id": "9154884f-1c97-4233-87ae-bc0f9a87aa0d",
+                "resourcePath": "objects\\phone_call_manager\\phone_call_manager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -103,6 +135,14 @@
             }
         },
         {
+            "Key": "52b22bcb-e016-47a1-8d98-c3d4e53289d4",
+            "Value": {
+                "id": "ddb72af4-41b4-4eec-b6bd-89a195c3e1c6",
+                "resourcePath": "objects\\button\\button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "542922d3-8e4e-4837-a8b8-901350c59a27",
             "Value": {
                 "id": "dcefda0a-80d0-45dc-be12-68795d6e378d",
@@ -111,11 +151,35 @@
             }
         },
         {
+            "Key": "569dfbcc-22a5-464a-96a9-0950f5f01240",
+            "Value": {
+                "id": "e34385e9-8d17-4b41-80f4-21622046065f",
+                "resourcePath": "views\\569dfbcc-22a5-464a-96a9-0950f5f01240.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5877da27-884a-4dc7-95e6-7ca1da41dcb2",
+            "Value": {
+                "id": "60c1bc1b-0c25-48ab-bd31-b394239157cf",
+                "resourcePath": "rooms\\phone_call\\phone_call.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "74389380-acde-4245-b5eb-fb01d4d4a5c5",
             "Value": {
                 "id": "d9ce602f-103b-4b4b-b677-e0ff2af35806",
                 "resourcePath": "sprites\\sprite0\\sprite0.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7716fbf7-0b2c-4f81-a405-d300023d90a1",
+            "Value": {
+                "id": "f8a7e9e5-b6a1-4561-a7dc-0a774dc22491",
+                "resourcePath": "views\\7716fbf7-0b2c-4f81-a405-d300023d90a1.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -199,6 +263,14 @@
             }
         },
         {
+            "Key": "dbdfa0d0-7189-46ae-a196-74eb2f72baa7",
+            "Value": {
+                "id": "609de96c-eb2f-4f08-8900-b26cd13aae41",
+                "resourcePath": "rooms\\avocado_pit_removal\\avocado_pit_removal.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "c8db5b4c-7a12-4f9a-9c20-5fa96444655f",
@@ -208,7 +280,7 @@
         }
     ],
     "script_order": [
-        
+        "29b30fcc-8e76-409b-84aa-ad56f03a667e"
     ],
     "tutorial": ""
 }
