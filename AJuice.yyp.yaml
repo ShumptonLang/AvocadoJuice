@@ -1,17 +1,65 @@
 assets: 
-  - "sprites | GMSprite | a8a7ab55-6fda-4f64-ab0f-5063910eecaf | 4d776734-b9e9-42f4-b7d0-4f7447a4e4da": []
+  - "sprites | GMSprite | a8a7ab55-6fda-4f64-ab0f-5063910eecaf | 4d776734-b9e9-42f4-b7d0-4f7447a4e4da": 
+      - "kitchensprites | GMSprite | 413fc156-ca33-4856-9b38-096be3982776 | 9141914e-0187-4bdc-803f-a1a5d6445744": 
+          - "?AvacadoSelect | GMSprite | d63a0456-6a46-497b-8f69-fb23ed34bec8 | da9c4c00-8800-4cd4-b625-3ce2a98b8a64"
+          - "?BasementSelect | GMSprite | bac9748a-1e34-4ec7-84ed-2c9fbb1a3bcc | 6f947d72-d713-49f4-a7d5-b44a299ca2b4"
+          - "?CabinetSelect | GMSprite | c78dc147-7c83-4481-a712-2147ec8c5d1e | 134a0458-0815-4d05-9bd1-0d7dbbb1f9fb"
+          - "?FridgeSelect | GMSprite | e39e0614-f11e-4d21-880a-dfcd11c0147d | f50c001b-8972-4344-a9c3-1841013b584f"
+          - "?KitchenBack | GMSprite | e32ff39b-14d0-4a9b-880d-d1fd864316f3 | fbab3dd3-f7b4-4c4f-8a64-c86b49072151"
+          - "?SinkSelect | GMSprite | 9ba5e3a5-7cc4-472c-865d-e964ab650140 | 5a186a22-1c11-4ac1-9b91-3ae7e947e3a4"
+      - "titlesprites | GMSprite | d1ed958e-3972-4f5d-85bc-6e199f6daab0 | 27febac9-862a-48ef-9259-1a63e5ed14b1": 
+          - "?StartSprite | GMSprite | 38a6d2b8-5cf6-42d8-a62d-13ec9d1cd841 | 18b0cc20-1adf-40e2-8d7c-69617fcee731"
+          - "?AvacadoBack | GMSprite | 572ee4b9-9180-4ab2-8796-2cbcf40ff554 | c50b6bad-c680-45d3-9dc3-47ae0b05f6e8"
+      - "radiosprites | GMSprite | e990841c-8768-43e2-b0f4-66c6568dcc3e | a5c3ff13-084e-48d1-8ae3-ce3f21ed7d35": 
+          - "?backbuttsprite | GMSprite | fa7ddf31-def9-49c8-a219-7371e90e4647 | d2abf355-e596-4e82-9d6b-0aab1c1164fb"
+          - "?pwrbuttsprite | GMSprite | 1b28a83f-7725-4119-b1a5-f8746f4743fe | 62a8b9a8-dbe5-483f-bbb1-9e1da20fbfe1"
+          - "?RadioRoomBack | GMSprite | f7df6358-a133-465d-aec2-d186dd7f00d5 | c4751d05-ffb1-44c5-bcc5-a81c5cf14632"
+          - "?radiosprite | GMSprite | df25d079-56a9-4770-afdb-f1c57198b53f | a9be55ae-648d-405e-b07e-2e545a93ec55"
+          - "?skipbuttsprite | GMSprite | be078221-0711-42ef-b2d6-6601b910a3be | 662f7444-5ee4-4bfc-b92d-e529856ae970"
+      - "?backarrow | GMSprite | 2a289304-0046-45a6-bd35-70d31d53e3f4 | 7ba01375-fdc0-4806-8198-59f8f1704557"
   - "tilesets | GMTileSet | 084c8009-cce8-48b2-accc-ffcbc85a498c | ffd77b7d-bc01-47d6-a5e3-84e58ffd2d29": []
-  - "sounds | GMSound | 2aa34f1e-c892-4060-8ae5-eb3ffaf4ca75 | 05a510e8-485c-40ae-a500-9b63d140cd92": []
+  - "sounds | GMSound | 2aa34f1e-c892-4060-8ae5-eb3ffaf4ca75 | 05a510e8-485c-40ae-a500-9b63d140cd92": 
+      - "?Macroform___Simplicity | GMSound | 471c2e50-c0da-42d5-860e-81331ca52fc5 | ef58d9cc-3ecd-4e13-b375-e469d954b7ab"
+      - "?A_Neat_Lil_Thing | GMSound | a3692a55-4fb7-4b42-828c-20ae35e7b4dd | 7f1a68b6-7caf-4574-af6b-410f680dceb9"
+      - "?bomb_co | GMSound | 21469f01-5645-4836-a107-83257190f5d9 | 111a9e6b-52c8-427a-a002-b1303920685e"
+      - "?morning_cereal_mm | GMSound | 5a0d6677-20eb-4b95-8da9-a8446fa50c6c | 4f76fa64-a867-4c0f-8011-62f7f750c19a"
+      - "?Some_Scattleish_Thing | GMSound | 7160aeab-3374-4a55-b746-82f9d57e13be | 6a6cd0d4-fccc-4be8-9e76-d4e849a2a924"
+      - "?danger_song | GMSound | 93b49d49-1b57-4e4c-b3ef-4888ae183b35 | 8c5648aa-477b-44d6-abeb-3a644450528e"
+      - "?Gruht_sale | GMSound | a1e71919-3330-4942-b9e7-073a67143bf1 | b83cea29-63e4-401f-ae93-e17da18fc948"
+      - "?The_Mad_Man | GMSound | c92f7fd0-6c97-4563-a927-486382f0663d | 1544cfbd-d508-49fa-b408-bbb4946914f7"
+      - "?hungry_for_pizza__1_ | GMSound | 80ecebb8-6dd6-4dfd-962f-bf1f74ab9cdd | 9d075f9a-183d-4e42-be22-f9f553d8d41f"
+      - "?Scary_Sound | GMSound | d89dd15f-f093-431e-941e-21e11f157ae6 | 4c0a2ee2-e407-4517-841f-082bfcbc27d2"
   - "paths | GMPath | 504062a7-90f4-4403-8e61-cfd26bb59acb | efbf6f40-3ad0-45a4-9b17-1cd698c33aaa": []
   - "scripts | GMScript | 1f1dcf18-9005-4a69-9b91-93297ae6cf8e | 8c7e5ee2-212b-4177-af1f-8c18d009a62b": []
   - "shaders | GMShader | 01aa5aec-1b5a-4f81-b428-5e85bd197d11 | 7966bce6-cc81-459d-a62f-0806356c2ae2": []
-  - "fonts | GMFont | 18dd1a08-4d7f-450c-afc1-7b60278de78a | 2ab2a75e-835c-475c-87c4-cffbe3a15eb3": []
+  - "fonts | GMFont | 18dd1a08-4d7f-450c-afc1-7b60278de78a | 2ab2a75e-835c-475c-87c4-cffbe3a15eb3": 
+      - "?AvacadoFont | GMFont | 3fa8155d-5a5b-4897-9e76-5352a94dbe0c | fdfcd84d-2ded-47b8-b48d-51739f63df08"
   - "timelines | GMTimeline | 9e165188-60be-48ce-b5ca-a0bca0d5f8cc | 8605fcec-44be-4f8d-b9b0-034903a61760": []
-  - "objects | GMObject | 80aa636f-736b-4c52-8f8c-b8f45ec1f95e | 97b9fd0a-1fec-4696-aed7-7c57c8f6d1c6": []
+  - "objects | GMObject | 80aa636f-736b-4c52-8f8c-b8f45ec1f95e | 97b9fd0a-1fec-4696-aed7-7c57c8f6d1c6": 
+      - "KitchenSelections | GMObject | c2f0e2ee-10d2-4e65-a122-917e302b3c79 | 1bf4d3d4-c172-4a66-9c25-4ad5d439d352": 
+          - "?BasementSelectObj | GMObject | 180daef5-aa59-4e7d-90a6-8c00fbbfda5b | c0dd7544-0be7-48d8-9382-c83af13361e3"
+          - "?Radio | GMObject | 6b63be8c-c81f-4e93-ac8b-2274fbd2871e | 6c137a8b-a2e9-414c-bd99-6196d3f74a47"
+          - "?SinkSelectObj | GMObject | 083f3cfc-e8c9-4c6d-baf0-d777bac76212 | e449df3b-05b3-4263-8282-78bfda193708"
+          - "?FridgeSelectObj | GMObject | 317e8aff-8fcd-4dba-864e-07c84e3a81c2 | aa7f3797-4377-4f68-81df-00e8f480b0b1"
+          - "?CabinetSelectObj | GMObject | e11b9ec3-7a9b-4507-820b-78ee2e2c260f | 3f49295a-4d60-469b-9c8d-e784f3e4fb29"
+          - "?AvacadoSelectObj | GMObject | 147c5a18-cd18-48c2-816a-050a98fe1d05 | 58fe3c6f-254f-40c4-aee8-d73b449bdc03"
+      - "TitleObjects | GMObject | dd051ea3-494d-4845-ab4a-f21194aa0427 | 3c8b8d83-3e8f-4c17-874a-e41914fceac6": 
+          - "?TitleText | GMObject | 3c4d4b69-f95c-4f51-a45c-ed945bd3c03b | 743cd2e1-ea56-4ff5-a362-5973c2cd0e96"
+          - "?StartClick | GMObject | 13fd9516-521b-4c54-8131-2a994ec5aae0 | 4620aa76-e000-4815-ab6f-c6c756b8af74"
+      - "RadioObjects | GMObject | 3e46813b-c488-4a5b-8f07-ee0030945265 | b25d06d1-95ca-44fd-81c5-8f43f763ce9d": 
+          - "?SkipSongObj | GMObject | 1a6d25c4-ddff-4dc6-84f8-fd2f10c216f4 | 1dc40623-fc5a-4d1e-835e-36a731bd7d47"
+          - "?PrevSongObj | GMObject | c9db6707-f3ac-47b7-9e32-2eeb25b107cd | 9709b5e4-5dd7-4dd6-82fe-c9ffa49355c5"
+          - "?PowerbuttonObj | GMObject | 8d527681-3bd6-42e5-97c7-c106f6732158 | 6c63178a-8ed8-47fb-bd9d-2ea543db4c92"
+          - "?radToKitBack | GMObject | 81153245-8221-4948-bcd9-e53657329d23 | c68070ad-7c49-44b7-82cf-d149e3002e48"
+      - "?AudioManager | GMObject | b5ae880a-dd99-4e18-9625-6deb1148111f | 114132f6-d79f-4c87-94cd-6723f5736c80"
   - "rooms | GMRoom | a33e1f00-36a6-43b5-90e7-1f75f9bcda6b | b265ef66-506f-4650-86e0-5eb5f5197e3d": 
+      - "?TitleScreen | GMRoom | 5fdd7e7c-dc8a-4f17-aa56-4bebec60be5a | 12917a77-7229-42a3-959c-58e716166c9a"
+      - "?The_Kitshen | GMRoom | e6bc06ff-6b29-4767-bb49-607f94878f56 | f119726c-517a-4912-856f-abc79be7c747"
       - "?room0 | GMRoom | 2bf52b48-3723-4548-9fe0-587b50156cb8 | 7fc2f189-adfb-42b5-b25d-2d9a4c318b0a"
+      - "?RadioInterface | GMRoom | a02cc798-8cfd-43c6-bc8d-624db567800b | 63c5ee9b-2edf-49e3-8b9f-79ef2703872e"
   - "notes | GMNotes | 542922d3-8e4e-4837-a8b8-901350c59a27 | dcefda0a-80d0-45dc-be12-68795d6e378d": []
-  - "datafiles | GMIncludedFile | b6f52d41-3998-4187-948c-b1ff69a5e756 | b3008191-7580-4362-bff7-967e4f7df458": []
+  - "datafiles | GMIncludedFile | b6f52d41-3998-4187-948c-b1ff69a5e756 | b3008191-7580-4362-bff7-967e4f7df458": 
+      - "datafiles_yy\\avocado.regular.ttf.yy | GMIncludedFile | b9088706-c37d-44e8-b542-ab9b732d2987 | 54431f52-c9fb-4a72-8c45-efd88724e9c3"
   - "extensions | GMExtension | 9b85f7b5-179c-4e79-baf0-9e48c65092e4 | 9ebbd2af-046b-4549-be60-47e55bb5ff40": []
   - "options | GMOptions | 1fd6841b-6540-405d-8ac8-46a97c374a00 | ffe62178-4d12-4949-87d6-61bdbb6dcd05": 
       - "options\\windows\\options_windows.yy | GMWindowsOptions | cc98d028-7bdd-4680-85f3-c87a7baa481e | 8ae9c016-5580-41a1-926b-78f8e471e032"
