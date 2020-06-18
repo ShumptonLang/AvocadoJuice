@@ -31,10 +31,20 @@ assets:
       - "?flaggo | GMSprite | c0005d12-eb78-4fc9-99e5-8cdffca36c02 | 5b5c9010-d28b-4f21-8a0b-0c1b83bb5798"
       - "?sprite28 | GMSprite | f8c332e8-874f-4fd7-89d1-219c1f58655e | 896cd70e-fd8a-4e42-ac11-7b6729b3ccdf"
       - "?skingk | GMSprite | 55b7c330-fb62-4f4a-88d3-59d50e6cec35 | ce5ee69d-36c0-4715-aef2-522bedc0d01f"
+      - "?bigredbutton | GMSprite | 39330e37-e936-4956-b3d6-e675a47dc972 | 5606980c-4db8-4a5e-9ddf-84373f6f003d"
+      - "?avocadohand | GMSprite | c64484a8-a276-40e3-b867-0655bddf980c | 59e03174-ab5b-4bfd-93bc-9e0689911f8a"
+      - "?avocadobad | GMSprite | e7e3f0d3-8a99-4478-80cb-c46c96d35bc0 | 8cd42f6e-d4bc-41dc-8e2b-200794140b12"
+      - "?avocadosliced | GMSprite | 0a62839d-07d9-4bdd-babb-e8bb179614fd | 81fc5982-e2ab-4e2e-b475-2ddd17a29f64"
+      - "?kinfesprite | GMSprite | 123ce4ff-07d3-44f4-b2c7-715ec6a1db8b | 1fad4071-3109-4748-a089-b1e11b00e2d3"
+      - "?sprite4 | GMSprite | 1b24673d-2a21-42fb-b34a-e6cfc70ff542 | 7276817f-897d-4d21-9d9f-2c1c7364437e"
+      - "?dynamojim | GMSprite | dd5e2e42-9895-457d-bc33-975bb1847396 | 872216dc-ea98-42b2-9d11-cf66179ae3d8"
+      - "?xmarksthespot | GMSprite | c2e20761-8a11-44da-9265-b81b92eb4915 | 819a1d5b-55f4-4889-8a0c-11ab07a4ebeb"
   - "tilesets | GMTileSet | 084c8009-cce8-48b2-accc-ffcbc85a498c | ffd77b7d-bc01-47d6-a5e3-84e58ffd2d29": []
   - "sounds | GMSound | 2aa34f1e-c892-4060-8ae5-eb3ffaf4ca75 | 05a510e8-485c-40ae-a500-9b63d140cd92": []
   - "paths | GMPath | 504062a7-90f4-4403-8e61-cfd26bb59acb | efbf6f40-3ad0-45a4-9b17-1cd698c33aaa": []
-  - "scripts | GMScript | 1f1dcf18-9005-4a69-9b91-93297ae6cf8e | 8c7e5ee2-212b-4177-af1f-8c18d009a62b": []
+  - "scripts | GMScript | 1f1dcf18-9005-4a69-9b91-93297ae6cf8e | 8c7e5ee2-212b-4177-af1f-8c18d009a62b": 
+      - "phone_call | GMScript | 569dfbcc-22a5-464a-96a9-0950f5f01240 | e34385e9-8d17-4b41-80f4-21622046065f": 
+          - "?input | GMScript | 29b30fcc-8e76-409b-84aa-ad56f03a667e | 44df8a41-06a7-4ebe-8eae-d16bd8a867f1"
   - "shaders | GMShader | 01aa5aec-1b5a-4f81-b428-5e85bd197d11 | 7966bce6-cc81-459d-a62f-0806356c2ae2": []
   - "fonts | GMFont | 18dd1a08-4d7f-450c-afc1-7b60278de78a | 2ab2a75e-835c-475c-87c4-cffbe3a15eb3": []
   - "timelines | GMTimeline | 9e165188-60be-48ce-b5ca-a0bca0d5f8cc | 8605fcec-44be-4f8d-b9b0-034903a61760": []
@@ -70,8 +80,19 @@ assets:
       - "?ant2 | GMObject | c44e5013-40db-4b37-ba2e-991395a28526 | c3195a0b-3404-44f1-850e-c9f7769989f5"
       - "?splos | GMObject | de93a0b9-f357-49d0-a5a7-ecf442d26498 | dc479db8-3775-4ea2-9c71-b1e233190f66"
       - "?object28 | GMObject | 7fe16cca-bea6-44c2-800d-0c737cd5d565 | 2b997d4b-8d75-4504-89e3-481f080bf7d4"
+      - "phone_call | GMObject | 7716fbf7-0b2c-4f81-a405-d300023d90a1 | f8a7e9e5-b6a1-4561-a7dc-0a774dc22491": 
+          - "?phone_call_manager | GMObject | 433e4f7c-2180-43cb-9ea9-d350dd53e4f4 | 9154884f-1c97-4233-87ae-bc0f9a87aa0d"
+          - "?button | GMObject | 52b22bcb-e016-47a1-8d98-c3d4e53289d4 | ddb72af4-41b4-4eec-b6bd-89a195c3e1c6"
+      - "avocado_pit_removal | GMObject | 4172bf99-61d1-4a41-a19d-d92e099ac077 | d69a1315-7a9f-4903-96ca-7026f65d7d03": 
+          - "?pit_removal_manager | GMObject | 413eb7ad-5d56-4619-bb4e-dd51a8f7414c | fdc12261-7ae7-4701-a005-27065b3f27b6"
+          - "?obj_avocado | GMObject | 1cb532fa-66fd-40c5-8c9d-245478b9eb92 | 3eee4bfb-b4d2-473a-bb6d-49a22b70337a"
+          - "?sign_obj | GMObject | 1431210c-2b7e-4cab-b13e-88d863bb5b66 | 39716a52-1add-491d-9c7d-648b2e0c960c"
+          - "?win_objec | GMObject | d786e55c-6614-4e13-96e1-ad747397ce45 | 7738b99f-34d2-4a06-a80b-ba9308acdb99"
+          - "?xler | GMObject | 86e3c9be-ab6f-4159-9803-4d67b6fe78c1 | 1a9b79aa-08e2-4c87-9ff5-4fc12116353a"
   - "rooms | GMRoom | a33e1f00-36a6-43b5-90e7-1f75f9bcda6b | b265ef66-506f-4650-86e0-5eb5f5197e3d": 
       - "?r_ant_bridge | GMRoom | 7228c91c-fa28-432c-a4bc-a9c8b9621868 | 907b98a2-17f0-42ea-afaf-c772eacbc31d"
+      - "?phone_call | GMRoom | 5877da27-884a-4dc7-95e6-7ca1da41dcb2 | 60c1bc1b-0c25-48ab-bd31-b394239157cf"
+      - "?avocado_pit_removal | GMRoom | dbdfa0d0-7189-46ae-a196-74eb2f72baa7 | 609de96c-eb2f-4f08-8900-b26cd13aae41"
       - "?room0 | GMRoom | 2bf52b48-3723-4548-9fe0-587b50156cb8 | 7fc2f189-adfb-42b5-b25d-2d9a4c318b0a"
       - "?r_ant_removal | GMRoom | 3b88feee-98fe-4e31-b343-f778bf96ccc3 | 00cb30b3-abcd-474c-b3e7-ca22573aafe5"
       - "?r_ant_bridgewin | GMRoom | 8cef2118-1557-4049-89ad-28cf500c126f | 137cf81a-17e1-4e81-a14c-11248e2e4442"
