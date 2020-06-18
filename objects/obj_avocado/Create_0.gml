@@ -1,2 +1,2 @@
-parkinsons_factor = 8
+parkinsons_factor = 24
 is_pressed = false
