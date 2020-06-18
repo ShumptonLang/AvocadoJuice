@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0a62839d-07d9-4bdd-babb-e8bb179614fd",
+            "Value": {
+                "id": "81fc5982-e2ab-4e2e-b475-2ddd17a29f64",
+                "resourcePath": "sprites\\avocadosliced\\avocadosliced.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "123ce4ff-07d3-44f4-b2c7-715ec6a1db8b",
             "Value": {
                 "id": "1fad4071-3109-4748-a089-b1e11b00e2d3",
@@ -55,11 +63,27 @@
             }
         },
         {
+            "Key": "1431210c-2b7e-4cab-b13e-88d863bb5b66",
+            "Value": {
+                "id": "39716a52-1add-491d-9c7d-648b2e0c960c",
+                "resourcePath": "objects\\sign_obj\\sign_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "18dd1a08-4d7f-450c-afc1-7b60278de78a",
             "Value": {
                 "id": "2ab2a75e-835c-475c-87c4-cffbe3a15eb3",
                 "resourcePath": "views\\18dd1a08-4d7f-450c-afc1-7b60278de78a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1b24673d-2a21-42fb-b34a-e6cfc70ff542",
+            "Value": {
+                "id": "7276817f-897d-4d21-9d9f-2c1c7364437e",
+                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -223,6 +247,14 @@
             }
         },
         {
+            "Key": "86e3c9be-ab6f-4159-9803-4d67b6fe78c1",
+            "Value": {
+                "id": "1a9b79aa-08e2-4c87-9ff5-4fc12116353a",
+                "resourcePath": "objects\\xler\\xler.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b85f7b5-179c-4e79-baf0-9e48c65092e4",
             "Value": {
                 "id": "9ebbd2af-046b-4549-be60-47e55bb5ff40",
@@ -279,6 +311,14 @@
             }
         },
         {
+            "Key": "c2e20761-8a11-44da-9265-b81b92eb4915",
+            "Value": {
+                "id": "819a1d5b-55f4-4889-8a0c-11ab07a4ebeb",
+                "resourcePath": "sprites\\xmarksthespot\\xmarksthespot.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c64484a8-a276-40e3-b867-0655bddf980c",
             "Value": {
                 "id": "59e03174-ab5b-4bfd-93bc-9e0689911f8a",
@@ -295,11 +335,27 @@
             }
         },
         {
+            "Key": "d786e55c-6614-4e13-96e1-ad747397ce45",
+            "Value": {
+                "id": "7738b99f-34d2-4a06-a80b-ba9308acdb99",
+                "resourcePath": "objects\\win_objec\\win_objec.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dbdfa0d0-7189-46ae-a196-74eb2f72baa7",
             "Value": {
                 "id": "609de96c-eb2f-4f08-8900-b26cd13aae41",
                 "resourcePath": "rooms\\avocado_pit_removal\\avocado_pit_removal.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e7e3f0d3-8a99-4478-80cb-c46c96d35bc0",
+            "Value": {
+                "id": "8cd42f6e-d4bc-41dc-8e2b-200794140b12",
+                "resourcePath": "sprites\\avocadohand1\\avocadohand1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
