@@ -1,7 +1,6 @@
 //[,[],[],[]]
-terminal = true
+
 global.password = "8675309"
-global.h = 2
 hallowed_script = ["that's the earth where bee stung god"]
 seeyah_script_end = ["night night"]
 milk_script = ["oh.. its " + string(global.password),["thanks king <3 ;;))",seeyah_script_end]]
