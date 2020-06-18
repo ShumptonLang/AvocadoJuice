@@ -1,0 +1,1 @@
+dirt_score = 0;

@@ -1,0 +1,30 @@
+{
+    "id": "2c57aae8-9e64-49be-b6a5-89c2f2198241",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "2c57aae8-9e64-49be-b6a5-89c2f2198241",
+    "children": [
+        "73903323-875a-4697-bfa8-1bbbcdc99927",
+        "c87059fb-fbda-4915-a751-cb18f47e8196",
+        "7ccb0a10-2226-40a7-bb78-7fec9b859419",
+        "71fc3212-b288-4b0c-8d40-3c31f80ab35a",
+        "f478152c-fea8-4ea8-aa00-b015bde5b14b",
+        "fd075557-60bc-4bab-873a-7df26850d2b6",
+        "5153566a-ec0c-4e36-ae4c-c78815539c5b",
+        "b3814371-ac90-4947-a137-36781b3215c3",
+        "111237af-c905-45ff-b8e7-f8e518fb787d",
+        "11495bab-7ffa-415f-bb31-ef246160a385",
+        "8767d85a-ed11-4126-a509-ce3d12c63c9d",
+        "893a2543-32fa-4ec5-a577-1870fe55ba22",
+        "b05967df-754a-42e2-9e93-a7d576c5fe84",
+        "0fbcdce5-28eb-42d9-a169-a8a44ad3437d",
+        "3ced552c-964d-4316-b80f-99520cdce24e",
+        "3d7fd4d9-08c8-40cb-8464-abe3f08ec058",
+        "9198f483-78b4-4684-9492-c584dc2b5b28",
+        "a340803d-4716-486f-b890-d74174ea97e3"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "avacado_burial",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
