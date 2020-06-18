@@ -1303,6 +1303,14 @@
             }
         },
         {
+            "Key": "bb0a47d1-9a46-401c-9a61-5e00ce104c9c",
+            "Value": {
+                "id": "42cc11dc-f8ff-4c46-9cdf-39646e0b16f9",
+                "resourcePath": "scripts\\wait_transition\\wait_transition.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "be078221-0711-42ef-b2d6-6601b910a3be",
             "Value": {
                 "id": "662f7444-5ee4-4bfc-b92d-e529856ae970",
@@ -1784,7 +1792,8 @@
         }
     ],
     "script_order": [
-        "29b30fcc-8e76-409b-84aa-ad56f03a667e"
+        "29b30fcc-8e76-409b-84aa-ad56f03a667e",
+        "bb0a47d1-9a46-401c-9a61-5e00ce104c9c"
     ],
     "tutorial": ""
 }

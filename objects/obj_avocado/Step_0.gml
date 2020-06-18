@@ -25,3 +25,4 @@ if lost {
 }
 sign_obj.has_lost = lost
 win_objec.has_lost = lost
+show_debug_message(string(alarm[0]))
